@@ -1,6 +1,6 @@
-# 3D models
+# FLO 3D Coin Images
 
-FLO 3D models
+Images of FLO coins in 3D
 
 ![FLOenvironment](coin2/floCoin_environment.png)
 
