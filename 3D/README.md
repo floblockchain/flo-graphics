@@ -12,7 +12,7 @@ Credit for these images goes to Truedev and gunkworks.no
 
 ## Contributing
 
-Funding for this initiative was covered by the FLO dev team due to the urgent nature of the request for a 3D image. If you'd like to contribute towards covering the cost, please send some crypto to the Big Mac Fund or directly to one of these addresses:
+Funding for this initiative was covered by the FLO dev team due to the urgent nature of the request for a 3D image. If you'd like to contribute towards covering the cost, please send some crypto to the [Big Mac Fund](http://flo.foundation/joey-big-mac/) or directly to one of these addresses:
 
 ```
 Addresses:
